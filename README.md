@@ -1,2 +1,2 @@
-# UCBCS61A
-The self-learing of UC berkeley CS61A
+# UCB_CS61A
+The self-learning of UC Berkeley CS61A
